@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-color: #f2f2f2af;
+    text-align: center;
+}
+
+header {
+    background-color: #000107;
+    color: white;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+profile {
+    background-color: #0a0116;
+    color: white;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+bio {
+    font-size: 1em;
+    margin-top: 15px;
+}
